@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wasssssssssssssss
+=======
+wow soy un conlficto
+>>>>>>> 7640077 (añado notas)
